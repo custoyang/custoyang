@@ -1,4 +1,9 @@
 ## Hi there 👋
+- 🔭 I’m a 3rd year Computer Science major currently attending the University of California, Irvine specializing in Intelligent Systems
+- 👯 I’m looking to apply my skills at an internship and collaborate on scalable projects
+- 🌱 I’m currently working as a research assistant at the Mondego Lab under PHD student Iris Ma, Professor Crista Lopes, and Professor Alberto Krone Martins
+
+
 
 <!--
 **custoyang/custoyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
